@@ -1,5 +1,5 @@
 # Cyber Security Lecture Slides 
-These are the slides from the lecture series by Liano.
+These are the slides from the lecture series.
 Feel free to use these to make notes as some of these slides contain content that can be used as notes.
 
 
